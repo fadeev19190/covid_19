@@ -1,1 +1,3 @@
 # covid_19
+
+The primary objective of this project is to conduct research on the impact of COVID-19 on different populations and the variation in case numbers from one country to another. The main focus of this project is data visualization, allowing us to analyze the percentage of the affected population based on WHO data. The author acknowledges that for more substantial conclusions, a more extensive and rigorous research effort would be necessary. Therefore, this project primarily serves the author's curiosity and exploration.
